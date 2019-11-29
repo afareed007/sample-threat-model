@@ -1,0 +1,22 @@
+{
+  "summary": {
+    "title": "sample",
+    "owner": "me-owner",
+    "description": "a high level system description"
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "a-contributor"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "a-diagram-title",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "me-reviewer"
+  }
+}
